@@ -37,6 +37,8 @@ The preconfigured Docker Compose setup is available in the [`core-docker-config`
 
 <h2 id="dashboard">👨‍🍳 Dashboard</h2>
 
+Easily monitor and manage your workflows through the intuitive dashboard.
+
 <div align="center">
     <img width=900 src="assets/dashboard/dashboard.png">
 </div>
