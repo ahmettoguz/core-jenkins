@@ -38,7 +38,7 @@ The preconfigured Docker Compose setup is available in the [`core-docker-config`
 <h2 id="dashboard">👨‍🍳 Dashboard</h2>
 
 <div align="center">
-    <img width=800 src="assets/dashboard/dashboard.png">
+    <img width=900 src="assets/dashboard/dashboard.png">
 </div>
 
 <br/>
@@ -55,7 +55,7 @@ The preconfigured Docker Compose setup is available in the [`core-docker-config`
 
 <h2 id="releases">🚢 Releases</h2>
 
-&nbsp; [![.](https://img.shields.io/badge/1.0.0-233838?style=flat&label=version&labelColor=470137&color=077521)](https://github.com/ahmettoguz/core-jenkins/tree/v1.0.0)
+&nbsp; [![.](https://img.shields.io/badge/1.0.0-233838?style=flat&label=version&labelColor=111727&color=1181A1)](https://github.com/ahmettoguz/core-jenkins/tree/v1.0.0)
 
 <br/>
 
